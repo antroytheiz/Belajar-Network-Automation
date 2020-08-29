@@ -25,3 +25,6 @@ print(output.decode())
 # close connection ssh
 ssh_client.close()
 
+# Tambah devices lain, pada line selanjutnya
+
+
